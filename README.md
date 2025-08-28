@@ -140,6 +140,8 @@ Performance
 
 Hiring  [Link to the Dashboard]( https://app.powerbi.com/groups/e45a0be3-f88c-44ed-8275-c95e548603e3/dashboards/7e1d2ae2-569b-43e2-a792-6518118119e5?experience=power-bi)
 
+Diversity [Link to the Dashboard](https://app.powerbi.com/groups/e45a0be3-f88c-44ed-8275-c95e548603e3/dashboards/f0c64c65-4879-4e6a-87f3-4482abfe0998?experience=power-bi)
+
 ![diversity](https://github.com/user-attachments/assets/45d25961-c813-48ce-9136-2a621523c374)
 
 ![hire](https://github.com/user-attachments/assets/051c95b5-43ee-430c-ae9e-2adb1c45b2af)
