@@ -120,8 +120,8 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 - Microsoft Power BI
 
 # 
+<img width="856" height="579" alt="image" src="https://github.com/user-attachments/assets/728d02d3-3bf2-4e39-851e-541b6bb23451" />
 
-![Image1](Images/HR-diversity-and-inclusion-image2.jpeg)
 
 ## Insights & Recommendations
 
@@ -134,6 +134,9 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 4. Majority of the leavers for FY20 are from Operations and Sales & Marketing departments, so the fact that a large number of employees are leaving these specific departments could suggest that there are issues within these areas of the business. There may be problems with management, working conditions, or employee satisfaction that are causing people to leave. It may be worth investigating the reasons for the high turnover to identify and address any underlying issues.
 
 5. The fact that the average performance ratings for FY20 for female and male employees are very similar (2.42 for females and 2.41 for males) suggests that there may be gender equality in terms of performance within the company. This is a positive sign, as it suggests that the company is evaluating employees based on their actual performance, rather than any bias or stereotypes based on gender. However, there may be room for improvement in terms of employee performance, and it is important to be vigilant for potential biases that could impact the evaluation process.
+## Dashboards
+
+
 
 ## Conclusion
 This HR Diversity and Inclusion Analysis project is a critical component in measuring and tracking an organization's diversity and inclusion initiatives. The project provides valuable insights for HR managers, proposed recommendations to make data-driven decisions and take proactive steps towards creating a more diverse and inclusive workplace culture.
