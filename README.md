@@ -1,7 +1,7 @@
 
 # HR-Diversity-Inclusion-Analysis
-Description\\
-Project Details
+# Description\\
+# Project Details
 Key Performance Indicators (KPIs)
 Calculated KPIs
 What is Diversity Percentage?
