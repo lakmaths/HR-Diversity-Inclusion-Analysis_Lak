@@ -34,7 +34,7 @@ Overall, this HR Diversity and Inclusion Analysis project served as a valuable t
 <br>
 <br>
 <p align="center">
-  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" style="width: 566px; height: 377px; max-width: 100%; height: auto;" />
+<img width="651" height="494" alt="image" src="https://github.com/user-attachments/assets/908a1dd3-ca12-4ac3-a53d-e74dada44ef2" />
 </p>
 
 ## Key Performance Indicators (KPIs)
