@@ -1,8 +1,6 @@
 
-
-
 # HR-Diversity-Inclusion-Analysis
-Description
+Description\\
 Project Details
 Key Performance Indicators (KPIs)
 Calculated KPIs
