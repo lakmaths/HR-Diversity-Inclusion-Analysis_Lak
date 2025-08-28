@@ -135,7 +135,11 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 
 5. The fact that the average performance ratings for FY20 for female and male employees are very similar (2.42 for females and 2.41 for males) suggests that there may be gender equality in terms of performance within the company. This is a positive sign, as it suggests that the company is evaluating employees based on their actual performance, rather than any bias or stereotypes based on gender. However, there may be room for improvement in terms of employee performance, and it is important to be vigilant for potential biases that could impact the evaluation process.
 ## Dashboards
+![diversity](https://github.com/user-attachments/assets/45d25961-c813-48ce-9136-2a621523c374)
 
+![hire](https://github.com/user-attachments/assets/051c95b5-43ee-430c-ae9e-2adb1c45b2af)
+
+![performance](https://github.com/user-attachments/assets/ff602ac4-99c1-48e9-8a51-3b184cdd559f)
 
 
 ## Conclusion
